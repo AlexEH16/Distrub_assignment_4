@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<NationalParks>
+
+	<NationalPark Rating="4.9">
+		<Name>Grand Canyon</Name>
+		<Phone>928-638-7496</Phone>
+		<Phone>888-297-2757</Phone>
+		<Phone>866-499-2574</Phone>
+		<Address NearestAirport="FlagStaff">
+			<Number>8</Number>
+			<Street>S Entrance Road</Street>
+			<City>Grand Canyon</City>
+			<State>AZ</State>
+			<Zip>86023</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark Rating="4.8">
+		<Name>Yosemite</Name>
+		<Phone>209-372-0200</Phone>
+		<Address NearestAirport="Fresno">
+			<Number>2</Number>
+			<Street>Tunnel View Road</Street>
+			<City>Tuolumne</City>
+			<State>CA</State>
+			<Zip>95389</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark Rating="4.8">
+		<Name>Glacier</Name>
+		<Phone>406-888-7800</Phone>
+		<Phone>406-888-7806</Phone>
+		<Phone>855-733-4522</Phone>
+		<Address NearestAirport="Glacier Park International Airport">
+			<Number>3</Number>
+			<Street>Mary Entrance Street</Street>
+			<City>Columbia Falls</City>
+			<State>MT</State>
+			<Zip>59936</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark Rating="4.8">
+		<Name>Yellowstone</Name>
+		<Phone>307-344-7381</Phone>
+		<Address NearestAirport="Yellowstone Airport">
+			<Number>4</Number>
+			<Street>2 Office Row</Street>
+			<City>Mammoth Hot Springs</City>
+			<State>WY</State>
+			<Zip>82190</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark Rating="4.7">
+		<Name>Zion</Name>
+		<Phone>123-456-7890</Phone>
+		<Address NearestAirport="Utah Airport">
+			<Number>5</Number>
+			<Street>Zion Street</Street>
+			<City>SandStone</City>
+			<State>UT</State>
+			<Zip>12345</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark Rating="4.5">
+		<Name>Grand Teton</Name>
+		<Phone>123-456-7890</Phone>
+		<Address NearestAirport="Yellowstone Airport">
+			<Number>6</Number>
+			<Street>Grand Teton Street</Street>
+			<City>Mammoth</City>
+			<State>WY</State>
+			<Zip>12345</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark Rating="4.4">
+		<Name>Rocky Mountain</Name>
+		<Phone>123-456-7890</Phone>
+		<Address NearestAirport="Denver International Airport">
+			<Number>7</Number>
+			<Street>Rock Mountain Street</Street>
+			<City>Denver</City>
+			<State>CO</State>
+			<Zip>12345</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark Rating="4.9">
+		<Name>Acadia</Name>
+		<Phone>123-456-7890</Phone>
+		<Phone>555-456-1234</Phone>
+		<Address NearestAirport="Main Airport">
+			<Number>1</Number>
+			<Street>Acadia road</Street>
+			<City>Coastline</City>
+			<State>MA</State>
+			<Zip>54321</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark Rating ="1.3">
+		<Name>Arches</Name>
+		<Phone>123-456-7890</Phone>
+		<Address NearestAirport="Utah Airport">
+			<Number>9</Number>
+			<Street>Arches Street</Street>
+			<City>Salt Lake City</City>
+			<State>UT</State>
+			<Zip>12345</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark Rating="4.5">
+		<Name>Great Smoky Mountains</Name>
+		<Phone>123-456-7890</Phone>
+		<Address NearestAirport="McGhee Tyson Airport">
+			<Number>10</Number>
+			<Street>Great Smoky road</Street>
+			<City>Harrison</City>
+			<State>TN</State>
+			<Zip>54321</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark Rating="4.5">
+		<Name>Hawaii Volcanoes</Name>
+		<Phone>123-456-7890</Phone>
+		<Address NearestAirport="Hawaii National Airport">
+			<Number>11</Number>
+			<Street>Seaside Street</Street>
+			<City>Lava</City>
+			<State>HI</State>
+			<Zip>12345</Zip>
+		</Address>
+	</NationalPark>
+
+</NationalParks>
